@@ -1,0 +1,4 @@
+	
+1: The benefits of using a static site hosting service is that it is quick, cost free because there is no need for backend data usage, disadvantages are that it is hosted under their domain, its static so need to redploy to change content
+
+2: https://github.com/rileyzilka01/rileyzilka01.github.io
